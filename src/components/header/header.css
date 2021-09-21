@@ -1,0 +1,49 @@
+.header {
+  margin-top: .5rem;
+  padding-left: 10px;
+}
+
+.header ul li {
+  list-style: none;
+  margin: 0;
+  padding: .5rem 1rem;
+  border-radius: 3px;
+}
+
+.header ul li:hover {
+  background-color: #80abd4;
+  color: white;
+}
+
+.header a:hover {
+  text-decoration: none;
+
+}
+
+.header h3 a {
+  color: white;
+}
+
+.header h3 a:hover {
+  color: lightblue;
+}
+
+.header button {
+  height: 2.2rem;
+  margin-top: 1px;
+  margin-left: 3px;
+}
+
+a {
+  color: antiquewhite;
+}
+
+.btn {
+  background-color: #80abd4;
+  border: none;
+  border-radius: 70px;
+}
+
+.btn:hover{
+  background-color: darkcyan;
+}
